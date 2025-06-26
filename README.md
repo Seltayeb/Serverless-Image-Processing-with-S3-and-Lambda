@@ -4,14 +4,16 @@ A serverless project that automatically resizes and optimizes images uploaded to
 
 ## 🏢 Architecture Overview
 
+
+![Manara](https://github.com/user-attachments/assets/daa9129e-2f13-4013-bed6-ff87cd6f6a3d)
+
+
 ```plaintext
 User Uploads Image → S3 (original/)
                          ↓ (Event Trigger)
                   AWS Lambda (resizes image)
                          ↓
                 S3 (resized/100x100/, 300x300/)
-
-![The Diagram](https://github.com/Seltayeb/Serverless-Image-Processing-with-S3-and-Lambda/blob/main/Manara.png)
 
 ## ✅ Features
 
