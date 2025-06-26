@@ -10,7 +10,7 @@ User Uploads Image → S3 (original/)
                   AWS Lambda (resizes image)
                          ↓
                 S3 (resized/100x100/, 300x300/)
-![Architecture Diagram] 
+![Architecture Diagram] https://lucid.app/lucidchart/025e78aa-85d4-420b-8332-6cc444c6fdd7/edit?invitationId=inv_db693e0e-aaf6-460c-924d-9a3e2724c2b3
 
 ## ✅ Features
 
