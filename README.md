@@ -10,7 +10,7 @@ User Uploads Image → S3 (original/)
                   AWS Lambda (resizes image)
                          ↓
                 S3 (resized/100x100/, 300x300/)
-![Architecture Diagram] Manara.png
+![Architecture Diagram](https://github.com/Seltayeb/Serverless-Image-Processing-with-S3-and-Lambda/blob/main/Manara.png)
 ## ✅ Features
 
 * Automatic image resizing (e.g., 100x100, 300x300)
