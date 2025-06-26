@@ -11,7 +11,7 @@ User Uploads Image → S3 (original/)
                          ↓
                 S3 (resized/100x100/, 300x300/)
 
-![Architecture Diagram](https://github.com/Seltayeb/Serverless-Image-Processing-with-S3-and-Lambda/blob/main/Manara.png)
+![alt text](https://github.com/Seltayeb/Serverless-Image-Processing-with-S3-and-Lambda/blob/main/Manara.png)
 
 ## ✅ Features
 
