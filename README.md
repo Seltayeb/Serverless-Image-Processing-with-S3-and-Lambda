@@ -10,8 +10,7 @@ User Uploads Image → S3 (original/)
                   AWS Lambda (resizes image)
                          ↓
                 S3 (resized/100x100/, 300x300/)
-![Screenshot 2025-06-19 130444](https://github.com/user-attachments/assets/4e531b15-b263-450b-9068-f9a38a51986b)
-
+![Architecture Diagram] 
 
 ## ✅ Features
 
